@@ -1,0 +1,4 @@
+# Kit Scénar (ressources payantes, à ne pas partager) : gardé hors du dépôt public
+scenar/
+node_modules/
+.env
